@@ -15,5 +15,6 @@ int main (int argc, char **argv)
   printf ("Hello test_app (Yocto)!\n");
 	printf ("I am test_app_hello project\n");
 	printf("Learn devtool upgrade command and tag to v1.1\n");
+	printf("Learn devtool upgrade command and tag to v1.2\n");
 	return 0;
 } /* ----- End of main() ----- */
