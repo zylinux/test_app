@@ -21,5 +21,6 @@ int main (int argc, char **argv)
 	printf("Learn devtool upgrade command and tag to v1.5\n");
 	printf("Learn devtool upgrade command and tag to v1.6\n");
 	printf("Learn devtool upgrade command and tag to v1.7\n");
+	printf("Learn devtool upgrade command and tag to v1.8\n");
 	return 0;
 } /* ----- End of main() ----- */
